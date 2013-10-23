@@ -1,0 +1,6 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1382118151000 1293 61263a102791d6bdb53109a21c01c4bae35b3067 /Users/ykaribou/Projects/IBricol_Android/src/com/ystreibel/ibricol/AppelService.java
+1382118151000 3212 94f3c7cc412a80d749f7f200faa34201631cdab5 /Users/ykaribou/Projects/IBricol_Android/src/com/ystreibel/ibricol/IBricol.java
+1382118151000 861 98a85f8de1d09e364032ebff165dff5af0afdaff /Users/ykaribou/Projects/IBricol_Android/src/com/ystreibel/ibricol/DayPickerFragment.java

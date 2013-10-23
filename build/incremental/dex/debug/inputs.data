@@ -1,0 +1,20 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1382565898000 1965 f964fd6060d95ccaf446b919c7282434bccf5c0d /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/AppelService.class
+1382565899000 730 2e21e44c21dfcbe86ca6851a2d458c5df0799f1e /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$id.class
+1382118151000 393154 307c1cc532eabbf1d135b43e5c983c9da700449d /Users/ykaribou/Projects/IBricol_Android/libs/android-support-v4.jar
+1382565899000 754 e65605baa1416ec21dd71bc3d903a02e6c62bb0c /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R.class
+1382565899000 440 43292eea831140c45ec2874472f51089ee53687c /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$style.class
+1382565899000 3544 36fcff8efff786390b0b3d15bde9599e30a71f76 /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/IBricol.class
+1382565898000 1295 c33dddd70443cfe39b6478300b303395c0d72bfd /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/DayPickerFragment$1.class
+1382118151000 156948 224c93f1824fa17b96db7250c2e5e2703d45e052 /Users/ykaribou/Projects/IBricol_Android/libs/ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar
+1382565899000 416 88848496b2a198657da77fc94bca848fe1ddd8ba /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$drawable.class
+1382565899000 349 824a5cf0cbf824988aad2f7810fd6d0f5d33ebf2 /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$attr.class
+1382565899000 415 1954781846473cfbd6d21f4df7f51ecb418c43ce /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$layout.class
+1382565899000 470 76e68d9d5b7bc1e5014b39bb729b87724f724543 /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$dimen.class
+1382565899000 472 5ef2d5fd9b44b83afb6579afacfcb0a35583c8c0 /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/BuildConfig.class
+1382565899000 400 a4624ec1d23e5bb6a4326a1c29fce6cdfa1458e0 /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$menu.class
+1382565898000 1588 53a0424abec80e2b1502a4af9bf3cc3e5e635f86 /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/DayPickerFragment.class
+1382565899000 544 6638b6fea0085cccc130856a4788810067fdb3b9 /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$raw.class
+1382565899000 687 8b2951ed2b0bc89a90377737e0478965298ace90 /Users/ykaribou/Projects/IBricol_Android/build/classes/debug/com/ystreibel/ibricol/R$string.class
